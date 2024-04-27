@@ -1,0 +1,6 @@
+@lxpanel --profile LXDE-pi
+@pcmanfm --desktop --profile LXDE-pi
+@xscreensaver -no-splash
+@bash /home/admin/bookwise/server_launcher.sh
+@bash /home/admin/bookwise/launcher.sh
+
